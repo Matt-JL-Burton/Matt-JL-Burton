@@ -9,5 +9,6 @@ Here is some stuff you might be instreted to know
 - 🌱 My languges; english, python, js, HTML, CSS, SQL and more to come
 - 👯 I’m looking to collaborate on : not much at the moment hmu at the end of June when I will have finished exams
 - 📫 How to reach me: mslburton24@yahoo.com 
+- 👻 snapchat : mburton394
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I co founded my first company at 16
