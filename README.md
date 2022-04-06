@@ -2,7 +2,7 @@
 
 <a href="https://donate.redcross.org.uk/appeal/ukraine-crisis-appeal" alt="I support Ukraine's independence"><img src="https://img.shields.io/badge/I%20support-Ukraine's%20independence-yellow?labelColor=005bbb&color=ffd500&style=flat"></a>
 
-Here are some ideas to get you started:
+Here is some stuff you might be instreted to know
 
 - 🔭 I’m currently working on HackerRank!
     when I'm not practising coding on my own projects Im doing challanges on github. So far I have only missed one day where I havent been coding on either github or hackerrank. 
