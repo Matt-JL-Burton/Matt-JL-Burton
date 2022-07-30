@@ -9,3 +9,5 @@ Here is some stuff you might be instreted to know
 - 🌱 My languges; Python, JS, HTML, CSS, SQL and more to come
 - 📫 How to reach me: mslburton24@yahoo.com 
 - ⚡ Fun fact: I co founded my first company at 16
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Matt-JL-Burton)
