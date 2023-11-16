@@ -7,4 +7,4 @@ Here is some stuff you might be instreted to know
 - 🌱 My languges; Python, Java, HTML, C, JS, CSS, SQL and more to come
 - 📫 How to reach me: mslburton24@yahoo.com 
 
-<a href="https://donate.redcross.org.uk/appeal/ukraine-crisis-appeal" alt="I support Ukraine's independence"><img src="https://img.shields.io/badge/I%20support-Ukraine's%20independence-yellow?labelColor=005bbb&color=ffd500&style=flat"> </a> ![Profile View Counter](https://komarev.com/ghpvc/?username=Matt-JL-Burton)
+ </a> ![Profile View Counter](https://komarev.com/ghpvc/?username=Matt-JL-Burton)
