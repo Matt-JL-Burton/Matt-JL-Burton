@@ -2,8 +2,8 @@
 
 Here is some stuff you might be instreted to know
 
-- 🔭 I’m currently working on ..... HackerRank and LeetCode!
-    When I'm not practising coding on my own projects I'm doing challanges on other websites. See my hackerrank here https://www.hackerrank.com/mat37 or my Leetcode here https://leetcode.com/Matt-JL-Burton/
-- 🌱 My languges; Python, Java, HTML, C, JS, CSS, SQL and more to come
+- 🔭 I’m currently working at Serac Technologies revolutionising the planning & building industry with better data & better technology
+- 👨‍💻 I'm always open to work on new & exciting projects so message me on https://www.linkedin.com/in/matthew-jl-burton/ if you have anything fun to work on
+- 🌱 My languges; TS, Python, Java, C++, HTML, JS, CSS, SQL, Scala and more to come
 
- </a> ![Profile View Counter](https://komarev.com/ghpvc/?username=Matt-JL-Burton)
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=Matt-JL-Burton)
